@@ -1,0 +1,5 @@
+archive.zip
+data/
+*.pth
+static/uploads/
+__pycache__/
